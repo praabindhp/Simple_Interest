@@ -1,7 +1,7 @@
 # Simple_Interest
 
 This Is A Python Program To Find The Simple Interest
-From Recieving The Input From The Users
+From Recieving The Input From Users
 
 Datas:
 Principle As P,
