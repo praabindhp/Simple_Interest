@@ -9,3 +9,5 @@ Datas:
 Principle As P,
 Time Duration As T,
 Rate Of Interest As R
+
+The bank may use different types of interest rates over your deposits and loan amount. These include a simple and compound interest rate they use on your deposits and borrowed amounts. Simple interest rate loans have lesser obligations for borrowers to fulfill compared to a compounding interest rate-based loan.
